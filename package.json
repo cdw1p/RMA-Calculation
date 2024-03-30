@@ -1,0 +1,23 @@
+{
+  "name": "rma-calculation",
+  "version": "1.0.0",
+  "description": "RMA (Recursive Moving Average) Calculation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/RMA-Calculation.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/RMA-Calculation/issues"
+  },
+  "homepage": "https://github.com/cdw1p/RMA-Calculation#readme",
+  "dependencies": {
+    "ccxt": "^4.2.86"
+  }
+}
